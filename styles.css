@@ -1,0 +1,32 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #f2f9fc;
+    color: #1e2a33;
+    line-height: 1.6;
+}
+
+header {
+    border-bottom: 3px solid #0e5e9c;
+    padding-bottom: 1rem;
+}
+
+h1 {
+    color: #0e5e9c;
+}
+
+h2 {
+    color: #127c94;
+}
+
+a {
+    color: #0e5e9c;
+}
+
+footer {
+    margin-top: 2rem;
+    border-top: 1px solid #b8d4e0;
+    font-size: 0.9rem;
+}
